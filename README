@@ -1,0 +1,6 @@
+1) Ouvrir un terminal dans ce répertoire
+2) Lancer la commande cmake . 
+3) Une fois la commande " $ cmake . " s'est bien executé, lancer la commande " $ make "
+4) Un executable sur ce même répertoire sera créé sous le nom de " Quarto", 
+vous pouvez l'executer en lançant la commande " $ ./Quarto "
+
